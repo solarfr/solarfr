@@ -5,6 +5,7 @@
 - 📫 How to reach me: @thekidsolar on discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned coding very young at 7-8yrs old. Ive been interested ever since!
+- [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
 
 <!---
 nahsolar/nahsolar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
