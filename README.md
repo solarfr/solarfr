@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solarfv
 - 👀 I’m interested in HTML, JS, and PY.
-- 📫 How to reach me: @thekidsolar on discord.
+- 📫 How to reach me: @codesolarly on discord.
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1167562687337746492)](https://discord.com/users/1167562687337746492)
 
