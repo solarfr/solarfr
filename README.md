@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solarfv
+- 👋 Hi, I’m @solarly
 - 👀 I’m interested in HTML, JS, and PY.
 - 📫 How to reach me: @codesolarly on discord.
   
